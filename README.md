@@ -13,5 +13,6 @@
 - 💬 Ask me about test automation and software quality
 - 📫 How to reach me: [@samantacicilia](https://twitter.com/samantacicilia)
 - 😄 Pronouns: She/Her
+- 🎈 [A Protagonist (ENFJ)](https://www.16personalities.com/enfj-personality)
 - ⚡ Fun fact: I'm post-graduate in Theology
 

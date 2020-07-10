@@ -5,11 +5,13 @@
 
 
 - 🔭 I’m currently working on [@Pagar.me](https://github.com/pagarme)
+- :heart: Co-founder on [Agile Testers Community](http://agiletesters.com.br/)
 - 🌱 I’m currently learning Greek |ελληνικά|
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on open-source
+- 🌐 You can find my contributions on my personal site: [samantacicilia.com](http://samantacicilia.com/)
+- 📚 You can read my posts on [Medium](https://medium.com/@samantacicilia)
 - 💬 Ask me about test automation and software quality
-- 📫 How to reach me: 
+- 📫 How to reach me: [@samantacicilia](https://twitter.com/samantacicilia)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm post-graduate in Theology
 

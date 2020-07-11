@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on [@Pagar.me](https://github.com/pagarme)
 - :heart: Co-founder on [Agile Testers Community](http://agiletesters.com.br/)
+- 🦄 [ISFP Member](https://www.theisfp.com/members-2/samycicigmail-com/profile/_
 - 🌱 I’m currently learning Greek |ελληνικά|
 - 👯 I’m looking to collaborate on open-source
 - 🌐 You can find my contributions on my personal site: [samantacicilia.com](http://samantacicilia.com/)

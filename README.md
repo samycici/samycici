@@ -17,6 +17,5 @@
 - 🎈 [The Counselor (INFJ)](https://www.truity.com/personality-type/INFJ)
 - ⚡ Fun fact: I'm post-graduate in Theology
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samycici&theme=dracula)](https://github.com/samycici/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samycici&show_icons=true&theme=dracula)](https://github.com/samycici/)
 <br/>

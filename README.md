@@ -14,7 +14,7 @@
 - 💬 Ask me about test automation and software quality
 - 📫 How to reach me: [@samantacicilia](https://twitter.com/samantacicilia)
 - 😄 Pronouns: She/Her
-- 🎈 [The Counselor (ISFJ)](https://www.16personalities.com/br/personalidade-isfj)
+- 🎈 [The Defender (ISFJ)](https://www.16personalities.com/br/personalidade-isfj)
 - ⚡ Fun fact: I'm post-graduate in Theology
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samycici&show_icons=true&theme=dracula)](https://github.com/samycici/)
